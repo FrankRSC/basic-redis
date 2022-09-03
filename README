@@ -8,4 +8,4 @@ How to use:
 2.- npm run dev
 3.- redis-commander
 4.- Go to url provided by redis-commander
-5.- Send request the api
+5.- Send request to the api
