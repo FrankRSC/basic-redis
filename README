@@ -1,0 +1,11 @@
+# A simple example of the use of redis.
+
+Use redis-commander to see the data
+
+How to use:
+
+1.- npm i
+2.- npm run dev
+3.- redis-commander
+4.- Go to url provided by redis-commander
+5.- Send request the api
